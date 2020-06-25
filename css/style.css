@@ -1,0 +1,48 @@
+body{
+  font-family: 'Inter', sans-serif;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+ }
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+ }
+ .card-title{
+   font-weight: 700px;
+ }
+
+.card-body{
+  background-color: hsl(227, 47%, 96%);
+  color: hsl(228, 12%, 44%);
+  border-top: 4px solid;
+  border-top-color:hsl(225, 100%, 72%);
+}
+
+.card-text{
+  color: hsl(163, 72%, 41%);
+}
+.dark-mode{
+  background-color: hsl(228, 28%, 15%);
+  color: hsl(0, 0%, 100%);
+}
+.dark-mode1{
+  background-color: hsl(228, 28%, 20%);
+  color: white;
+}
+.row{
+  text-align: center;
+}
+
+.sub-top{
+  margin-left: 75%;
+  color: grey;
+}
+.para{
+  color: hsl(163, 72%, 41%);
+}
+.top{
+  margin-left: 13.5%;
+  color: hsl(163, 72%, 41%);
+}
